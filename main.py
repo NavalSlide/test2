@@ -298,11 +298,17 @@ async def main():
     logger.info(f"Iniciando bot para {args.url}")
     logger.info(f"Objetivo: {args.views} vistas con {args.concurrency} procesos concurrentes")
     
+    # Por defecto no usamos proxies
+    use_proxies = False
+    
     if args.use_proxies:
         if PROXIES:
             logger.info(f"Usando {len(PROXIES)} proxies cargados")
+            use_proxies = True
         else:
             logger.warning("No hay proxies disponibles")
+    else:
+        logger.info("Ejecutando sin proxies")
     
     views_completed = 0
     failed_views = 0
@@ -311,14 +317,29 @@ async def main():
     # Crear directorio para logs si no existe
     os.makedirs("logs", exist_ok=True)
     
+    # Calcular tiempo total estimado para asegurar al menos 4 horas de ejecución
+    view_time_avg = (args.min_view_time + args.max_view_time) / 2
+    min_duration_seconds = 4 * 60 * 60  # 4 horas en segundos
+    
+    # Ajustar la velocidad de procesamiento para asegurar la duración mínima
+    if args.views * view_time_avg / args.concurrency < min_duration_seconds:
+        logger.info(f"Ajustando parámetros para asegurar al menos 4 horas de ejecución")
+        # Añadir retrasos adicionales entre lotes para extender la duración
+        batch_delay = (min_duration_seconds / (args.views / args.concurrency)) - view_time_avg
+        if batch_delay < 0:
+            batch_delay = random.uniform(5.0, 10.0)
+        logger.info(f"Retraso entre lotes: {batch_delay:.2f} segundos")
+    else:
+        batch_delay = random.uniform(1.0, 5.0)
+    
     while views_completed < args.views:
         # Determinar cuántas vistas procesar en este lote
         batch_size = min(args.concurrency, args.views - views_completed)
         tasks = []
         
         for _ in range(batch_size):
-            # Seleccionar proxy aleatorio si está habilitado
-            proxy = random.choice(PROXIES) if args.use_proxies and PROXIES else None
+            # Seleccionar proxy aleatorio sólo si está habilitado explícitamente
+            proxy = random.choice(PROXIES) if use_proxies and PROXIES else None
             
             # Seleccionar user agent aleatorio
             user_agent = random.choice(USER_AGENTS)
@@ -346,10 +367,9 @@ async def main():
         logger.info(f"Progreso: {views_completed}/{args.views} vistas completadas ({successful_views} exitosas, {failed_this_batch} fallidas en este lote)")
         logger.info(f"Tasa: {views_per_hour:.2f} vistas por hora, tiempo estimado restante: {((args.views - views_completed) / views_per_hour * 60) if views_per_hour > 0 else 'N/A'} minutos")
         
-        # Pequeña pausa entre lotes para evitar detección y dar tiempo al sistema
-        delay = random.uniform(1.0, 5.0)
-        logger.info(f"Esperando {delay:.2f} segundos antes del siguiente lote...")
-        await asyncio.sleep(delay)
+        # Pausa entre lotes para extender la duración
+        logger.info(f"Esperando {batch_delay:.2f} segundos antes del siguiente lote...")
+        await asyncio.sleep(batch_delay)
     
     total_time = (datetime.now() - start_time).total_seconds()
     hours = total_time / 3600
@@ -357,6 +377,9 @@ async def main():
     logger.info(f"¡Completado! {views_completed} vistas generadas en {total_time:.2f} segundos ({hours:.2f} horas)")
     logger.info(f"Tasa final: {views_completed / hours:.2f} vistas por hora")
     logger.info(f"Vistas fallidas: {failed_views} ({(failed_views / (views_completed + failed_views) * 100):.2f}%)")
+
+
+
 
 if __name__ == "__main__":
     # Ejecutar el bucle de eventos de asyncio

@@ -1,0 +1,498 @@
+2025-03-12 05:19:24,783 - INFO - Cargados 56 proxies de la lista CSV
+2025-03-12 05:19:24,784 - INFO - Iniciando bot para https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:19:24,784 - INFO - Objetivo: 1000000 vistas con 10 procesos concurrentes
+2025-03-12 05:19:26,969 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:26,971 - INFO - Reintentando (1/2)...
+2025-03-12 05:19:27,006 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:27,021 - INFO - Reintentando (1/2)...
+2025-03-12 05:19:27,101 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:27,102 - INFO - Reintentando (1/2)...
+2025-03-12 05:19:27,118 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:27,118 - INFO - Reintentando (1/2)...
+2025-03-12 05:19:27,235 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:27,238 - INFO - Reintentando (1/2)...
+2025-03-12 05:19:27,378 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:27,381 - INFO - Reintentando (1/2)...
+2025-03-12 05:19:27,391 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:27,393 - INFO - Reintentando (1/2)...
+2025-03-12 05:19:27,428 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:27,428 - INFO - Reintentando (1/2)...
+2025-03-12 05:19:27,429 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:27,433 - INFO - Reintentando (1/2)...
+2025-03-12 05:19:27,433 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:27,441 - INFO - Reintentando (1/2)...
+2025-03-12 05:19:29,572 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:29,572 - INFO - Reintentando (2/2)...
+2025-03-12 05:19:29,757 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:29,760 - INFO - Reintentando (2/2)...
+2025-03-12 05:19:29,810 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:29,821 - INFO - Reintentando (2/2)...
+2025-03-12 05:19:29,838 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:29,841 - INFO - Reintentando (2/2)...
+2025-03-12 05:19:29,934 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:29,936 - INFO - Reintentando (2/2)...
+2025-03-12 05:19:29,955 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:29,961 - INFO - Reintentando (2/2)...
+2025-03-12 05:19:30,052 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:30,052 - INFO - Reintentando (2/2)...
+2025-03-12 05:19:30,073 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:30,077 - INFO - Reintentando (2/2)...
+2025-03-12 05:19:30,090 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:30,108 - INFO - Reintentando (2/2)...
+2025-03-12 05:19:30,180 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:30,181 - INFO - Reintentando (2/2)...
+2025-03-12 05:19:31,761 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:19:31,928 - ERROR - Error al iniciar el navegador: Executable doesn't exist at /home/codespace/.cache/ms-playwright/chromium-1097/chrome-linux/chrome
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-03-12 05:22:04,253 - INFO - Cargados 56 proxies de la lista CSV
+2025-03-12 05:22:04,255 - INFO - Iniciando bot para https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:22:04,255 - INFO - Objetivo: 1000000 vistas con 10 procesos concurrentes
+2025-03-12 05:22:15,130 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:22:18,341 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:22:21,571 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:22:21,865 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:22:22,078 - INFO - Video encontrado
+2025-03-12 05:22:22,348 - INFO - Video encontrado
+2025-03-12 05:22:31,597 - ERROR - Error al cargar la página o el video: Timeout 10000ms exceeded.
+2025-03-12 05:22:31,599 - INFO - Reintentando (1/2)...
+2025-03-12 05:22:31,897 - ERROR - Error al cargar la página o el video: Timeout 10000ms exceeded.
+2025-03-12 05:22:31,897 - INFO - Reintentando (1/2)...
+2025-03-12 05:22:34,173 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:22:34,305 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:22:34,544 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:22:34,956 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:22:35,277 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:22:35,477 - INFO - Video encontrado
+2025-03-12 05:22:35,741 - INFO - Video encontrado
+2025-03-12 05:22:36,091 - INFO - Video encontrado
+2025-03-12 05:22:36,596 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:22:36,788 - INFO - Video encontrado
+2025-03-12 05:22:37,148 - INFO - Video encontrado
+2025-03-12 05:22:37,542 - INFO - Video encontrado
+2025-03-12 05:22:46,198 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:22:51,364 - WARNING - No se pudo reproducir el video automáticamente
+2025-03-12 05:22:53,241 - WARNING - No se pudo reproducir el video automáticamente
+2025-03-12 05:22:53,365 - WARNING - No se pudo reproducir el video automáticamente
+2025-03-12 05:22:53,414 - WARNING - No se pudo reproducir el video automáticamente
+2025-03-12 05:22:53,665 - WARNING - No se pudo reproducir el video automáticamente
+2025-03-12 05:22:56,262 - ERROR - Error al cargar la página o el video: Timeout 10000ms exceeded.
+2025-03-12 05:22:56,269 - INFO - Reintentando (2/2)...
+2025-03-12 05:22:56,305 - INFO - Viendo video durante 21.22 segundos
+2025-03-12 05:22:57,035 - INFO - Viendo video durante 16.65 segundos
+2025-03-12 05:22:57,350 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:22:58,006 - INFO - Viendo video durante 21.33 segundos
+2025-03-12 05:22:58,533 - INFO - Viendo video durante 25.49 segundos
+2025-03-12 05:22:59,497 - INFO - Viendo video durante 16.48 segundos
+2025-03-12 05:23:01,303 - INFO - Video encontrado
+2025-03-12 05:23:15,998 - INFO - Visualización completada: 16.48 segundos
+2025-03-12 05:23:16,732 - INFO - Visualización completada: 16.65 segundos
+2025-03-12 05:23:20,369 - INFO - Visualización completada: 21.22 segundos
+2025-03-12 05:23:28,380 - INFO - Visualización completada: 21.33 segundos
+2025-03-12 05:23:28,471 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:23:29,857 - INFO - Visualización completada: 25.49 segundos
+2025-03-12 05:23:38,534 - ERROR - Error al cargar la página o el video: Timeout 10000ms exceeded.
+2025-03-12 05:28:54,892 - INFO - Cargados 56 proxies de la lista CSV
+2025-03-12 05:28:54,893 - INFO - Iniciando bot para https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:28:54,893 - INFO - Objetivo: 1600 vistas con 5 procesos concurrentes
+2025-03-12 05:28:54,893 - INFO - Usando 56 proxies cargados
+2025-03-12 05:28:54,893 - INFO - Usando proxy: socks5://178.79.144.186:8080 (GB)
+2025-03-12 05:28:54,894 - INFO - Usando proxy: socks5://140.250.148.19:1080 (CN)
+2025-03-12 05:28:54,894 - INFO - Usando proxy: socks5://108.59.14.200:13402 (US)
+2025-03-12 05:28:54,894 - INFO - Usando proxy: socks5://151.80.33.46:7497 (FR)
+2025-03-12 05:28:54,894 - INFO - Usando proxy: socks5://185.220.226.108:3128 (TR)
+2025-03-12 05:28:57,416 - ERROR - Error al cargar la página o el video: net::ERR_CONNECTION_RESET at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:28:57,416 - INFO - Reintentando (1/2)...
+2025-03-12 05:28:57,417 - INFO - Usando proxy: socks5://108.59.14.200:13402 (US)
+2025-03-12 05:28:57,456 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:28:57,456 - INFO - Reintentando (1/2)...
+2025-03-12 05:28:57,456 - INFO - Usando proxy: socks5://151.80.33.46:7497 (FR)
+2025-03-12 05:28:57,664 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:28:57,665 - INFO - Reintentando (1/2)...
+2025-03-12 05:28:57,665 - INFO - Usando proxy: socks5://140.250.148.19:1080 (CN)
+2025-03-12 05:28:58,802 - ERROR - Error al cargar la página o el video: net::ERR_CONNECTION_RESET at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:28:58,802 - INFO - Reintentando (2/2)...
+2025-03-12 05:28:58,802 - INFO - Usando proxy: socks5://108.59.14.200:13402 (US)
+2025-03-12 05:28:58,822 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:28:58,825 - INFO - Reintentando (2/2)...
+2025-03-12 05:28:58,825 - INFO - Usando proxy: socks5://151.80.33.46:7497 (FR)
+2025-03-12 05:28:59,493 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:28:59,494 - INFO - Reintentando (2/2)...
+2025-03-12 05:28:59,494 - INFO - Usando proxy: socks5://140.250.148.19:1080 (CN)
+2025-03-12 05:29:00,362 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:29:00,649 - ERROR - Error al cargar la página o el video: net::ERR_CONNECTION_RESET at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:29:01,422 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:29:27,046 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:29:27,047 - INFO - Reintentando (1/2)...
+2025-03-12 05:29:27,047 - INFO - Usando proxy: socks5://178.79.144.186:8080 (GB)
+2025-03-12 05:29:27,287 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:29:27,287 - INFO - Reintentando (1/2)...
+2025-03-12 05:29:27,287 - INFO - Usando proxy: socks5://185.220.226.108:3128 (TR)
+2025-03-12 05:29:58,010 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:29:58,011 - INFO - Reintentando (2/2)...
+2025-03-12 05:29:58,011 - INFO - Usando proxy: socks5://178.79.144.186:8080 (GB)
+2025-03-12 05:29:58,337 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:29:58,338 - INFO - Reintentando (2/2)...
+2025-03-12 05:29:58,338 - INFO - Usando proxy: socks5://185.220.226.108:3128 (TR)
+2025-03-12 05:30:28,923 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:30:29,197 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:30:29,343 - INFO - Progreso: 0/1600 vistas completadas (0 exitosas, 5 fallidas en este lote)
+2025-03-12 05:30:29,343 - INFO - Tasa: 0.00 vistas por hora, tiempo estimado restante: N/A minutos
+2025-03-12 05:30:29,343 - INFO - Esperando 2.62 segundos antes del siguiente lote...
+2025-03-12 05:30:31,970 - INFO - Usando proxy: socks5://172.104.49.195:8080 (SG)
+2025-03-12 05:30:31,971 - INFO - Usando proxy: socks5://79.143.190.221:12580 (DE)
+2025-03-12 05:30:31,971 - INFO - Usando proxy: socks5://95.64.144.66:1080 (RU)
+2025-03-12 05:30:31,971 - INFO - Usando proxy: socks5://115.127.107.218:1085 (BD)
+2025-03-12 05:30:31,971 - INFO - Usando proxy: socks5://171.253.61.51:1080 (VN)
+2025-03-12 05:30:34,354 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:30:34,355 - INFO - Reintentando (1/2)...
+2025-03-12 05:30:34,356 - INFO - Usando proxy: socks5://79.143.190.221:12580 (DE)
+2025-03-12 05:30:34,462 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:30:34,465 - INFO - Reintentando (1/2)...
+2025-03-12 05:30:34,472 - INFO - Usando proxy: socks5://115.127.107.218:1085 (BD)
+2025-03-12 05:30:34,702 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:30:34,704 - INFO - Reintentando (1/2)...
+2025-03-12 05:30:34,705 - INFO - Usando proxy: socks5://172.104.49.195:8080 (SG)
+2025-03-12 05:30:35,793 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:30:35,793 - INFO - Reintentando (2/2)...
+2025-03-12 05:30:35,795 - INFO - Usando proxy: socks5://79.143.190.221:12580 (DE)
+2025-03-12 05:30:35,946 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:30:35,949 - INFO - Reintentando (2/2)...
+2025-03-12 05:30:35,953 - INFO - Usando proxy: socks5://115.127.107.218:1085 (BD)
+2025-03-12 05:30:36,366 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:30:36,367 - INFO - Reintentando (2/2)...
+2025-03-12 05:30:36,367 - INFO - Usando proxy: socks5://172.104.49.195:8080 (SG)
+2025-03-12 05:30:37,201 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:30:37,508 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:30:37,908 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:31:04,436 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:31:04,436 - INFO - Reintentando (1/2)...
+2025-03-12 05:31:04,436 - INFO - Usando proxy: socks5://95.64.144.66:1080 (RU)
+2025-03-12 05:31:04,519 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:31:04,519 - INFO - Reintentando (1/2)...
+2025-03-12 05:31:04,520 - INFO - Usando proxy: socks5://171.253.61.51:1080 (VN)
+2025-03-12 05:31:35,314 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:31:35,314 - INFO - Reintentando (2/2)...
+2025-03-12 05:31:35,315 - INFO - Usando proxy: socks5://95.64.144.66:1080 (RU)
+2025-03-12 05:31:35,521 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:31:35,521 - INFO - Reintentando (2/2)...
+2025-03-12 05:31:35,522 - INFO - Usando proxy: socks5://171.253.61.51:1080 (VN)
+2025-03-12 05:31:51,368 - INFO - Cargados 56 proxies de la lista CSV
+2025-03-12 05:31:51,369 - INFO - Iniciando bot para https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:31:51,369 - INFO - Objetivo: 1600 vistas con 5 procesos concurrentes
+2025-03-12 05:31:57,135 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:31:58,233 - INFO - Video encontrado
+2025-03-12 05:32:04,096 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:32:04,467 - INFO - Video encontrado
+2025-03-12 05:32:06,047 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:32:06,339 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:32:07,037 - INFO - Progreso: 0/1600 vistas completadas (0 exitosas, 5 fallidas en este lote)
+2025-03-12 05:32:07,040 - INFO - Tasa: 0.00 vistas por hora, tiempo estimado restante: N/A minutos
+2025-03-12 05:32:07,040 - INFO - Esperando 4.53 segundos antes del siguiente lote...
+2025-03-12 05:32:09,665 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:32:10,669 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:32:10,818 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:32:11,576 - INFO - Usando proxy: socks5://95.140.124.161:1080 (RS)
+2025-03-12 05:32:11,577 - INFO - Usando proxy: socks5://61.7.183.101:4145 (TH)
+2025-03-12 05:32:11,581 - INFO - Usando proxy: socks5://81.12.124.185:5678 (IR)
+2025-03-12 05:32:11,583 - INFO - Usando proxy: socks5://185.189.208.65:4153 (GE)
+2025-03-12 05:32:11,583 - INFO - Usando proxy: socks5://108.59.14.200:13402 (US)
+2025-03-12 05:32:15,877 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:32:15,886 - INFO - Reintentando (1/2)...
+2025-03-12 05:32:15,894 - INFO - Usando proxy: socks5://108.59.14.200:13402 (US)
+2025-03-12 05:32:15,918 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:32:15,921 - INFO - Reintentando (1/2)...
+2025-03-12 05:32:15,923 - INFO - Usando proxy: socks5://185.189.208.65:4153 (GE)
+2025-03-12 05:32:16,121 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:32:16,128 - INFO - Reintentando (1/2)...
+2025-03-12 05:32:16,134 - INFO - Usando proxy: socks5://81.12.124.185:5678 (IR)
+2025-03-12 05:32:16,284 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:32:16,286 - INFO - Reintentando (1/2)...
+2025-03-12 05:32:16,286 - INFO - Usando proxy: socks5://95.140.124.161:1080 (RS)
+2025-03-12 05:32:19,675 - ERROR - Error al cargar la página o el video: Timeout 10000ms exceeded.
+2025-03-12 05:32:19,676 - INFO - Reintentando (1/2)...
+2025-03-12 05:32:20,698 - ERROR - Error al cargar la página o el video: Timeout 10000ms exceeded.
+2025-03-12 05:32:20,703 - INFO - Reintentando (1/2)...
+2025-03-12 05:32:20,777 - ERROR - Error al cargar la página o el video: net::ERR_CONNECTION_RESET at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:32:20,777 - INFO - Reintentando (2/2)...
+2025-03-12 05:32:20,778 - INFO - Usando proxy: socks5://108.59.14.200:13402 (US)
+2025-03-12 05:32:20,841 - ERROR - Error al cargar la página o el video: Timeout 10000ms exceeded.
+2025-03-12 05:32:20,842 - INFO - Reintentando (1/2)...
+2025-03-12 05:32:21,400 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:32:21,405 - INFO - Reintentando (2/2)...
+2025-03-12 05:32:21,407 - INFO - Usando proxy: socks5://185.189.208.65:4153 (GE)
+2025-03-12 05:32:21,408 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:32:21,410 - INFO - Reintentando (2/2)...
+2025-03-12 05:32:21,410 - INFO - Usando proxy: socks5://95.140.124.161:1080 (RS)
+2025-03-12 05:32:21,497 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:32:21,500 - INFO - Reintentando (2/2)...
+2025-03-12 05:32:21,501 - INFO - Usando proxy: socks5://81.12.124.185:5678 (IR)
+2025-03-12 05:32:25,202 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:32:26,209 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:32:26,257 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:32:26,484 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:32:29,163 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:32:31,871 - INFO - Video encontrado
+2025-03-12 05:32:37,856 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:32:38,036 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:32:46,376 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:32:46,376 - INFO - Reintentando (1/2)...
+2025-03-12 05:32:46,376 - INFO - Usando proxy: socks5://61.7.183.101:4145 (TH)
+2025-03-12 05:32:47,867 - ERROR - Error al cargar la página o el video: Timeout 10000ms exceeded.
+2025-03-12 05:32:47,867 - INFO - Reintentando (2/2)...
+2025-03-12 05:32:48,046 - ERROR - Error al cargar la página o el video: Timeout 10000ms exceeded.
+2025-03-12 05:32:48,047 - INFO - Reintentando (2/2)...
+2025-03-12 05:32:53,452 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:32:53,911 - INFO - Página cargada: https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:33:03,465 - ERROR - Error al cargar la página o el video: Timeout 10000ms exceeded.
+2025-03-12 05:33:03,918 - ERROR - Error al cargar la página o el video: Timeout 10000ms exceeded.
+2025-03-12 05:33:17,051 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:33:17,051 - INFO - Reintentando (2/2)...
+2025-03-12 05:33:17,052 - INFO - Usando proxy: socks5://61.7.183.101:4145 (TH)
+2025-03-12 05:33:47,611 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:33:47,767 - INFO - Progreso: 0/1600 vistas completadas (0 exitosas, 5 fallidas en este lote)
+2025-03-12 05:33:47,767 - INFO - Tasa: 0.00 vistas por hora, tiempo estimado restante: N/A minutos
+2025-03-12 05:33:47,767 - INFO - Esperando 1.59 segundos antes del siguiente lote...
+2025-03-12 05:33:49,355 - INFO - Usando proxy: socks5://193.70.113.238:18545 (FR)
+2025-03-12 05:33:49,356 - INFO - Usando proxy: socks5://109.236.84.101:30090 (NL)
+2025-03-12 05:33:49,356 - INFO - Usando proxy: socks5://178.32.143.55:32048 (FR)
+2025-03-12 05:33:49,356 - INFO - Usando proxy: socks5://168.205.217.58:4145 (BR)
+2025-03-12 05:33:49,356 - INFO - Usando proxy: socks5://201.68.215.79:61221 (BR)
+2025-03-12 05:33:51,993 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:33:51,993 - INFO - Reintentando (1/2)...
+2025-03-12 05:33:51,993 - INFO - Usando proxy: socks5://201.68.215.79:61221 (BR)
+2025-03-12 05:33:52,171 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:33:52,175 - INFO - Reintentando (1/2)...
+2025-03-12 05:33:52,176 - INFO - Usando proxy: socks5://178.32.143.55:32048 (FR)
+2025-03-12 05:33:52,260 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:33:52,262 - INFO - Reintentando (1/2)...
+2025-03-12 05:33:52,262 - INFO - Usando proxy: socks5://109.236.84.101:30090 (NL)
+2025-03-12 05:33:52,285 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:33:52,289 - INFO - Reintentando (1/2)...
+2025-03-12 05:33:52,291 - INFO - Usando proxy: socks5://168.205.217.58:4145 (BR)
+2025-03-12 05:33:52,299 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:33:52,303 - INFO - Reintentando (1/2)...
+2025-03-12 05:33:52,303 - INFO - Usando proxy: socks5://193.70.113.238:18545 (FR)
+2025-03-12 05:33:54,570 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:33:54,570 - INFO - Reintentando (2/2)...
+2025-03-12 05:33:54,570 - INFO - Usando proxy: socks5://201.68.215.79:61221 (BR)
+2025-03-12 05:33:54,665 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:33:54,673 - INFO - Reintentando (2/2)...
+2025-03-12 05:33:54,674 - INFO - Usando proxy: socks5://168.205.217.58:4145 (BR)
+2025-03-12 05:33:54,998 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:33:54,999 - INFO - Reintentando (2/2)...
+2025-03-12 05:33:55,001 - INFO - Usando proxy: socks5://178.32.143.55:32048 (FR)
+2025-03-12 05:33:55,337 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:33:55,337 - INFO - Reintentando (2/2)...
+2025-03-12 05:33:55,337 - INFO - Usando proxy: socks5://193.70.113.238:18545 (FR)
+2025-03-12 05:33:55,370 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:33:55,371 - INFO - Reintentando (2/2)...
+2025-03-12 05:33:55,371 - INFO - Usando proxy: socks5://109.236.84.101:30090 (NL)
+2025-03-12 05:33:57,703 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:33:57,956 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:33:58,123 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:33:58,173 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:33:58,564 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:33:59,044 - INFO - Progreso: 0/1600 vistas completadas (0 exitosas, 5 fallidas en este lote)
+2025-03-12 05:33:59,044 - INFO - Tasa: 0.00 vistas por hora, tiempo estimado restante: N/A minutos
+2025-03-12 05:33:59,044 - INFO - Esperando 4.61 segundos antes del siguiente lote...
+2025-03-12 05:34:03,663 - INFO - Usando proxy: socks5://81.12.124.185:5678 (IR)
+2025-03-12 05:34:03,663 - INFO - Usando proxy: socks5://66.33.212.173:17567 (US)
+2025-03-12 05:34:03,664 - INFO - Usando proxy: socks5://172.104.49.195:8080 (SG)
+2025-03-12 05:34:03,664 - INFO - Usando proxy: socks5://193.70.113.238:18545 (FR)
+2025-03-12 05:34:03,664 - INFO - Usando proxy: socks5://209.13.96.171:39921 (AR)
+2025-03-12 05:34:06,307 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:34:06,307 - INFO - Reintentando (1/2)...
+2025-03-12 05:34:06,308 - INFO - Usando proxy: socks5://172.104.49.195:8080 (SG)
+2025-03-12 05:34:06,422 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:34:06,422 - INFO - Reintentando (1/2)...
+2025-03-12 05:34:06,422 - INFO - Usando proxy: socks5://193.70.113.238:18545 (FR)
+2025-03-12 05:34:06,470 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:34:06,470 - INFO - Reintentando (1/2)...
+2025-03-12 05:34:06,471 - INFO - Usando proxy: socks5://81.12.124.185:5678 (IR)
+2025-03-12 05:34:07,800 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:34:07,800 - INFO - Reintentando (2/2)...
+2025-03-12 05:34:07,801 - INFO - Usando proxy: socks5://193.70.113.238:18545 (FR)
+2025-03-12 05:34:08,122 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:34:08,123 - INFO - Reintentando (2/2)...
+2025-03-12 05:34:08,124 - INFO - Usando proxy: socks5://172.104.49.195:8080 (SG)
+2025-03-12 05:34:08,260 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:34:08,260 - INFO - Reintentando (2/2)...
+2025-03-12 05:34:08,264 - INFO - Usando proxy: socks5://81.12.124.185:5678 (IR)
+2025-03-12 05:34:09,289 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:34:10,154 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:34:10,183 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
