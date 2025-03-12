@@ -634,3 +634,171 @@
 2025-03-12 05:36:26,402 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
 2025-03-12 05:36:26,466 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
 2025-03-12 05:36:26,926 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:36:50,873 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:36:50,874 - INFO - Reintentando (1/2)...
+2025-03-12 05:36:50,874 - INFO - Usando proxy: socks5://89.254.243.37:7788 (RU)
+2025-03-12 05:36:56,179 - INFO - Cargados 56 proxies de la lista CSV
+2025-03-12 05:36:56,180 - INFO - Iniciando bot para https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:36:56,180 - INFO - Objetivo: 1600 vistas con 5 procesos concurrentes
+2025-03-12 05:36:56,181 - INFO - Usando 56 proxies cargados
+2025-03-12 05:36:56,181 - INFO - Usando proxy: socks5://8.42.71.1:39593 (US)
+2025-03-12 05:36:56,181 - INFO - Usando proxy: socks5://201.68.215.79:61221 (BR)
+2025-03-12 05:36:56,181 - INFO - Usando proxy: socks5://185.220.226.108:3128 (TR)
+2025-03-12 05:36:56,181 - INFO - Usando proxy: socks5://103.131.104.125:10800 (ID)
+2025-03-12 05:36:56,182 - INFO - Usando proxy: socks5://193.70.113.238:18545 (FR)
+2025-03-12 05:36:59,652 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:36:59,652 - INFO - Reintentando (1/2)...
+2025-03-12 05:36:59,652 - INFO - Usando proxy: socks5://193.70.113.238:18545 (FR)
+2025-03-12 05:36:59,690 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:36:59,690 - INFO - Reintentando (1/2)...
+2025-03-12 05:36:59,692 - INFO - Usando proxy: socks5://201.68.215.79:61221 (BR)
+2025-03-12 05:37:00,028 - ERROR - Error al cargar la página o el video: net::ERR_CONNECTION_RESET at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:37:00,032 - INFO - Reintentando (1/2)...
+2025-03-12 05:37:00,034 - INFO - Usando proxy: socks5://185.220.226.108:3128 (TR)
+2025-03-12 05:37:01,014 - ERROR - Error al cargar la página o el video: net::ERR_SOCKS_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:37:01,014 - INFO - Reintentando (1/2)...
+2025-03-12 05:37:01,014 - INFO - Usando proxy: socks5://8.42.71.1:39593 (US)
+2025-03-12 05:37:02,288 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:37:02,289 - INFO - Reintentando (2/2)...
+2025-03-12 05:37:02,289 - INFO - Usando proxy: socks5://201.68.215.79:61221 (BR)
+2025-03-12 05:37:02,634 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:37:02,634 - INFO - Reintentando (2/2)...
+2025-03-12 05:37:02,635 - INFO - Usando proxy: socks5://193.70.113.238:18545 (FR)
+2025-03-12 05:37:03,198 - ERROR - Error al cargar la página o el video: net::ERR_CONNECTION_RESET at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:37:03,198 - INFO - Reintentando (2/2)...
+2025-03-12 05:37:03,198 - INFO - Usando proxy: socks5://185.220.226.108:3128 (TR)
+2025-03-12 05:37:04,679 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:37:04,765 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:37:06,879 - ERROR - Error al cargar la página o el video: net::ERR_CONNECTION_RESET at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:37:06,879 - INFO - Reintentando (2/2)...
+2025-03-12 05:37:06,879 - INFO - Usando proxy: socks5://8.42.71.1:39593 (US)
+2025-03-12 05:37:12,006 - ERROR - Error al cargar la página o el video: net::ERR_CONNECTION_RESET at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:37:21,550 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:37:21,551 - INFO - Reintentando (2/2)...
+2025-03-12 05:37:21,551 - INFO - Usando proxy: socks5://89.254.243.37:7788 (RU)
+2025-03-12 05:37:29,573 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:37:29,573 - INFO - Reintentando (1/2)...
+2025-03-12 05:37:29,573 - INFO - Usando proxy: socks5://103.131.104.125:10800 (ID)
+2025-03-12 05:37:35,205 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:37:52,320 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:37:52,484 - INFO - Progreso: 0/1600 vistas completadas (0 exitosas, 5 fallidas en este lote)
+2025-03-12 05:37:52,484 - INFO - Tasa: 0.00 vistas por hora, tiempo estimado restante: N/A minutos
+2025-03-12 05:37:52,484 - INFO - Esperando 2.26 segundos antes del siguiente lote...
+2025-03-12 05:37:54,746 - INFO - Usando proxy: socks5://185.189.208.65:4153 (GE)
+2025-03-12 05:37:54,746 - INFO - Usando proxy: socks5://151.80.33.46:7497 (FR)
+2025-03-12 05:37:54,746 - INFO - Usando proxy: socks5://185.143.234.28:8080 (IR)
+2025-03-12 05:37:54,746 - INFO - Usando proxy: socks5://201.68.215.79:61221 (BR)
+2025-03-12 05:37:54,746 - INFO - Usando proxy: socks5://109.236.84.101:30090 (NL)
+2025-03-12 05:37:57,294 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:37:57,297 - INFO - Reintentando (1/2)...
+2025-03-12 05:37:57,298 - INFO - Usando proxy: socks5://109.236.84.101:30090 (NL)
+2025-03-12 05:37:57,385 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:37:57,385 - INFO - Reintentando (1/2)...
+2025-03-12 05:37:57,385 - INFO - Usando proxy: socks5://201.68.215.79:61221 (BR)
+2025-03-12 05:37:57,824 - ERROR - Error al cargar la página o el video: net::ERR_SOCKS_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:37:57,824 - INFO - Reintentando (1/2)...
+2025-03-12 05:37:57,824 - INFO - Usando proxy: socks5://185.143.234.28:8080 (IR)
+2025-03-12 05:37:57,860 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:37:57,860 - INFO - Reintentando (1/2)...
+2025-03-12 05:37:57,860 - INFO - Usando proxy: socks5://151.80.33.46:7497 (FR)
+2025-03-12 05:37:57,914 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:37:57,914 - INFO - Reintentando (1/2)...
+2025-03-12 05:37:57,914 - INFO - Usando proxy: socks5://185.189.208.65:4153 (GE)
+2025-03-12 05:38:00,130 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:38:00,130 - INFO - Reintentando (2/2)...
+2025-03-12 05:38:00,130 - INFO - Usando proxy: socks5://103.131.104.125:10800 (ID)
+2025-03-12 05:38:00,622 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:00,627 - INFO - Reintentando (2/2)...
+2025-03-12 05:38:00,627 - INFO - Usando proxy: socks5://109.236.84.101:30090 (NL)
+2025-03-12 05:38:00,765 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:00,767 - INFO - Reintentando (2/2)...
+2025-03-12 05:38:00,768 - INFO - Usando proxy: socks5://201.68.215.79:61221 (BR)
+2025-03-12 05:38:01,548 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:01,549 - INFO - Reintentando (2/2)...
+2025-03-12 05:38:01,550 - INFO - Usando proxy: socks5://185.189.208.65:4153 (GE)
+2025-03-12 05:38:01,838 - ERROR - Error al cargar la página o el video: net::ERR_SOCKS_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:01,838 - INFO - Reintentando (2/2)...
+2025-03-12 05:38:01,847 - INFO - Usando proxy: socks5://185.143.234.28:8080 (IR)
+2025-03-12 05:38:01,881 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:01,881 - INFO - Reintentando (2/2)...
+2025-03-12 05:38:01,881 - INFO - Usando proxy: socks5://151.80.33.46:7497 (FR)
+2025-03-12 05:38:04,420 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:04,806 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:05,412 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:05,708 - ERROR - Error al cargar la página o el video: net::ERR_SOCKS_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:05,723 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:06,118 - INFO - Progreso: 0/1600 vistas completadas (0 exitosas, 5 fallidas en este lote)
+2025-03-12 05:38:06,118 - INFO - Tasa: 0.00 vistas por hora, tiempo estimado restante: N/A minutos
+2025-03-12 05:38:06,118 - INFO - Esperando 2.05 segundos antes del siguiente lote...
+2025-03-12 05:38:08,168 - INFO - Usando proxy: socks5://80.234.51.0:7788 (RU)
+2025-03-12 05:38:08,169 - INFO - Usando proxy: socks5://217.23.76.142:10001 (RU)
+2025-03-12 05:38:08,169 - INFO - Usando proxy: socks5://178.79.144.186:8080 (GB)
+2025-03-12 05:38:08,169 - INFO - Usando proxy: socks5://72.250.31.148:80 (US)
+2025-03-12 05:38:08,169 - INFO - Usando proxy: socks5://168.119.209.189:60006 (DE)
+2025-03-12 05:38:10,844 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:10,845 - INFO - Reintentando (1/2)...
+2025-03-12 05:38:10,847 - INFO - Usando proxy: socks5://168.119.209.189:60006 (DE)
+2025-03-12 05:38:10,920 - ERROR - Error al cargar la página o el video: net::ERR_SOCKS_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:10,920 - INFO - Reintentando (1/2)...
+2025-03-12 05:38:10,921 - INFO - Usando proxy: socks5://72.250.31.148:80 (US)
+2025-03-12 05:38:10,995 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:10,996 - INFO - Reintentando (1/2)...
+2025-03-12 05:38:10,997 - INFO - Usando proxy: socks5://217.23.76.142:10001 (RU)
+2025-03-12 05:38:12,793 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:12,794 - INFO - Reintentando (2/2)...
+2025-03-12 05:38:12,795 - INFO - Usando proxy: socks5://217.23.76.142:10001 (RU)
+2025-03-12 05:38:12,809 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:12,809 - INFO - Reintentando (2/2)...
+2025-03-12 05:38:12,809 - INFO - Usando proxy: socks5://168.119.209.189:60006 (DE)
+2025-03-12 05:38:12,965 - ERROR - Error al cargar la página o el video: net::ERR_SOCKS_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:12,967 - INFO - Reintentando (2/2)...
+2025-03-12 05:38:12,967 - INFO - Usando proxy: socks5://72.250.31.148:80 (US)
+2025-03-12 05:38:14,650 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:14,752 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:14,795 - ERROR - Error al cargar la página o el video: net::ERR_SOCKS_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:34,044 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:38:34,226 - INFO - Progreso: 0/1600 vistas completadas (0 exitosas, 5 fallidas en este lote)
+2025-03-12 05:38:34,226 - INFO - Tasa: 0.00 vistas por hora, tiempo estimado restante: N/A minutos
+2025-03-12 05:38:34,226 - INFO - Esperando 4.16 segundos antes del siguiente lote...
+2025-03-12 05:38:38,392 - INFO - Usando proxy: socks5://185.169.181.11:4145 (TR)
+2025-03-12 05:38:38,393 - INFO - Usando proxy: socks5://185.169.181.11:4145 (TR)
+2025-03-12 05:38:38,393 - INFO - Usando proxy: http://49.0.87.62:8088 (TH)
+2025-03-12 05:38:38,393 - INFO - Usando proxy: socks5://185.56.180.14:5678 (ES)
+2025-03-12 05:38:38,393 - INFO - Usando proxy: socks5://104.17.9.114:80 (US)
+2025-03-12 05:38:40,458 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:38:40,461 - INFO - Reintentando (1/2)...
+2025-03-12 05:38:40,461 - INFO - Usando proxy: socks5://80.234.51.0:7788 (RU)
+2025-03-12 05:38:40,902 - ERROR - Error al cargar la página o el video: Timeout 30000ms exceeded.
+2025-03-12 05:38:40,908 - INFO - Reintentando (1/2)...
+2025-03-12 05:38:40,908 - INFO - Usando proxy: socks5://178.79.144.186:8080 (GB)
+2025-03-12 05:38:41,156 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:41,156 - INFO - Reintentando (1/2)...
+2025-03-12 05:38:41,156 - INFO - Usando proxy: socks5://185.169.181.11:4145 (TR)
+2025-03-12 05:38:41,389 - ERROR - Error al cargar la página o el video: net::ERR_SOCKS_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:41,389 - INFO - Reintentando (1/2)...
+2025-03-12 05:38:41,389 - INFO - Usando proxy: socks5://104.17.9.114:80 (US)
+2025-03-12 05:38:41,390 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:41,390 - INFO - Reintentando (1/2)...
+2025-03-12 05:38:41,390 - INFO - Usando proxy: socks5://185.169.181.11:4145 (TR)
+2025-03-12 05:38:41,470 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:41,471 - INFO - Reintentando (1/2)...
+2025-03-12 05:38:41,472 - INFO - Usando proxy: socks5://185.56.180.14:5678 (ES)
+2025-03-12 05:38:44,065 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:44,066 - INFO - Reintentando (2/2)...
+2025-03-12 05:38:44,068 - INFO - Usando proxy: socks5://185.169.181.11:4145 (TR)
+2025-03-12 05:38:44,531 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:44,535 - INFO - Reintentando (2/2)...
+2025-03-12 05:38:44,536 - INFO - Usando proxy: socks5://185.169.181.11:4145 (TR)
+2025-03-12 05:38:44,745 - ERROR - Error al cargar la página o el video: net::ERR_SOCKS_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:44,745 - INFO - Reintentando (2/2)...
+2025-03-12 05:38:44,745 - INFO - Usando proxy: socks5://104.17.9.114:80 (US)
+2025-03-12 05:38:44,864 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:44,866 - INFO - Reintentando (2/2)...
+2025-03-12 05:38:44,868 - INFO - Usando proxy: socks5://185.56.180.14:5678 (ES)
+2025-03-12 05:38:47,174 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:47,513 - ERROR - Error al cargar la página o el video: net::ERR_SOCKS_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:47,660 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:47,788 - ERROR - Error al cargar la página o el video: net::ERR_PROXY_CONNECTION_FAILED at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:49,178 - ERROR - Error al cargar la página o el video: net::ERR_TIMED_OUT at https://www.youtube.com/watch?v=zVAnXmQOisc
+2025-03-12 05:38:49,178 - INFO - Reintentando (1/2)...
+2025-03-12 05:38:49,178 - INFO - Usando proxy: http://49.0.87.62:8088 (TH)
